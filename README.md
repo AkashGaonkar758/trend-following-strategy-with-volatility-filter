@@ -34,14 +34,12 @@ The **RSI** is used to assess whether the stock is overbought or oversold.
 
 ### **LONG:**
 Enter a long position if:
-- Volume is above the average (implying strong market interest).
 - The stock price is above the 20-period Moving Average.
 - The stock's ATR is above the threshold.
 - The RSI is below 70.
 
 ### **SHORT:**
 Enter a short position if:
-- Volume is above the average.
 - The stock price is below the 20-period Moving Average.
 - The stock's ATR is above the threshold.
 - The RSI is above 30.
